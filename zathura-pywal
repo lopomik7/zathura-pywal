@@ -139,7 +139,7 @@ set notification-warning-bg rgba(21,19,15,0)
 # set tabbar-focus-bg
 
 # Status bar
-set statusbar-fg '${color7}'
+set statusbar-fg '${color2}'
 # set statusbar-bg '${color0}'
 set statusbar-bg rgba(21,19,15,0)
 
